@@ -1,0 +1,8 @@
+{
+  "name": "LIFEQUIVER SCHOOLS Management System",
+  "description": "A comprehensive, modern school management system for Lifequiver Schools, Ile-Ife, featuring role-based dashboards for Admin, Teachers, Students, and Parents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
